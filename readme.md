@@ -1,6 +1,7 @@
 https://www.dsfaisal.com/articles/sql/leetcode-sql-problem-solving
 
 
+
 ##L176
 1st highest salary
 select max(salary)
